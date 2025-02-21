@@ -9,7 +9,7 @@ export default function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3f3c9259676161.5a315d92982d1.png"
+                                src="https://th.bing.com/th/id/OIP.5uzx0PbNA7zTMKxIWxA3IAAAAA?rs=1&pid=ImgDetMain"
                                 className="mr-3 h-16"
                                 alt="Logo"
                             />
@@ -71,9 +71,9 @@ export default function Footer() {
                 <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
-                        © 2023
+                        © 2025
                         <a href="https://hiteshchoudhary.com/" className="hover:underline">
-                            hiteshchoudhary
+                            jayakeshari
                         </a>
                         . All Rights Reserved.
                     </span>

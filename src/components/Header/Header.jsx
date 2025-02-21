@@ -8,7 +8,7 @@ export default function Header() {
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                     <Link to="/" className="flex items-center">
                         <img
-                            src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3f3c9259676161.5a315d92982d1.png"
+                            src="https://th.bing.com/th/id/OIP.5uzx0PbNA7zTMKxIWxA3IAAAAA?rs=1&pid=ImgDetMain://www.orientsoftware.com/Themes/Content/Images/technologies/react-js/react-development-services-intro.png"
                             className="mr-3 h-12"
                             alt="Logo"
                         />
